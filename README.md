@@ -7,3 +7,6 @@ Subject Selection: Select the subject based on the chosen class.
 Chapter Selection: Pick a chapter based on the selected class and subject.
 Dynamic Data Fetching: Data is fetched from an API and dynamically updates the dropdown options based on previous selections.
 Confirm Button: Displays the selected class, subject, and chapter after confirming the selections.
+
+### Demo
+The demo video can be found [here](https://drive.google.com/file/d/1dHz9ofkCA_OIRpVeVx-LrIqMD5pJkhWH/view?usp=sharing).
